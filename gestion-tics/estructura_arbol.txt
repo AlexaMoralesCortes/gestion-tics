@@ -1,0 +1,31 @@
+MiAppMovilBasica/
+  ├── assets/
+  ├── node_modules/
+  ├── screens/
+  │   ├── MantenedorProducto.js
+  │   ├── MantenedorBodega.js
+  │   ├── MantenedorProveedor.js
+  │   ├── MantenedorUsuario.js
+  │   ├── TransaccionEntrada.js
+  │   ├── TransaccionSalida.js
+  │   ├── Consulta1.js
+  │   ├── Consulta2.js
+  │   ├── Consulta3.js
+  │   └── Consulta4.js
+  ├── components/
+  │   ├── Header.js
+  │   └── DataTable.js
+  ├── services/
+  │   └── ApiService.js
+  │   └── app.py
+  ├── database/
+  │   └── mysql.js
+  │   └── bd.sql
+  │   └── connect.py
+  ├── styles/
+  │   └── appStyles.css
+  ├── App.js
+  ├── package.json
+  ├── app.json
+  └── ...
+
